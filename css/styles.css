@@ -2,19 +2,19 @@
 
 h1 {
 	font-family: 'Nova Mono', sans-serif;
-	color: #B22477;
+	color: #FF69B5;
 	font-size: 6em;
 }
 
 h2 {
 	font-family: 'Josefin Sans', sans-serif;
-	color: #B22477;
+	color: #6AE063;
 	font-size: 4em;
 }
 
 h3 {
 	font-family: 'Josefin Sans', sans-serif;
-	color: #B22477;
+	color: #FF4DB5;
 	font-size: 3em;
 }
 
@@ -23,7 +23,7 @@ h3 {
 p {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 2em;
-	color: #FF4DB5;
+	color: #6AE063;
 }
 
 /* Baseline Links */
@@ -31,18 +31,18 @@ p {
 a:link,
 a:visited {
 	font-family: 'Josefin Sans', sans-serif;
-	color: #B22477;
+	color: #FF69B5;
 	text-decoration: none;
 }
 
 a:hover {
-	background: red;
+	text-decoration: underline;
 }
 
 
 /* Set Your Own Margin & Padding */
 h2, h3, p {
-	margin: 0;
+	margin-left: 20px;
 }
 
 /* Layout for Style Tile*/
@@ -66,7 +66,7 @@ section {
 }
 
 .color-1 {
-	background: #FF4DB5;
+	background: #FF69B5;
 
 }
 
@@ -75,7 +75,7 @@ section {
 }
 
 .color-3 {
-	background:#B22477;
+	background:#6AE063;
 	}
 
 
