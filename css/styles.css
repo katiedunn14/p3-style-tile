@@ -1,8 +1,8 @@
 /*	Primary Header */
 
 h1 {
-	font-family: 'Monoton', cursive;
-	color: #789675;
+	font-family: 'Nova Mono', sans-serif;
+	color: #B22477;
 }
 
 /* Body Text */
@@ -10,7 +10,7 @@ h1 {
 p {
 	font-family: 'Crafty Girls', cursive;
 	font-size: 2em;
-	color: #CCC;
+	color: #FF4DB5;
 }
 
 /* Baseline Links */
@@ -30,6 +30,7 @@ a:hover {
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 /* Layout for Style Tile*/
@@ -50,7 +51,6 @@ section {
 	margin: 0 10px;
 	height: 50px;
 	width: 50px;
-	font-family: 'Monoton', cursive;
 }
 
 .color-1 {
@@ -82,4 +82,8 @@ section {
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+body {
+	background:#054F00;
 }
