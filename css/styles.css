@@ -3,12 +3,25 @@
 h1 {
 	font-family: 'Nova Mono', sans-serif;
 	color: #B22477;
+	font-size: 6em;
+}
+
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #B22477;
+	font-size: 4em;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #B22477;
+	font-size: 3em;
 }
 
 /* Body Text */
 
 p {
-	font-family: 'Crafty Girls', cursive;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 2em;
 	color: #FF4DB5;
 }
@@ -17,8 +30,8 @@ p {
 
 a:link,
 a:visited {
-	border-bottom: dashed orange 2px;
-	text-transform: uppercase;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #B22477;
 	text-decoration: none;
 }
 
@@ -30,7 +43,6 @@ a:hover {
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
-	font-family: 'Josefin Sans', sans-serif;
 }
 
 /* Layout for Style Tile*/
@@ -85,5 +97,9 @@ section {
 }
 
 body {
-	background:#054F00;
+	background: url("../img/water.jpg");
+}
+
+div.container {
+	background: #066600;
 }
