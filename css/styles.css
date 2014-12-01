@@ -8,7 +8,7 @@ h1 {
 
 h2 {
 	font-family: 'Josefin Sans', sans-serif;
-	color: #6AE063;
+	color: #066600;
 	font-size: 4em;
 }
 
@@ -23,7 +23,7 @@ h3 {
 p {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 2em;
-	color: #6AE063;
+	color: #066600;
 }
 
 /* Baseline Links */
@@ -101,5 +101,5 @@ body {
 }
 
 div.container {
-	background: #066600;
+	background: #B1FFA7;
 }
